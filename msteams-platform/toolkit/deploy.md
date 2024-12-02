@@ -51,6 +51,9 @@ Congratulations, you've created a Teams app! Now let's go ahead and learn how to
 
 ## Deploy to Azure
 
+> [!NOTE]
+> To deploy an app to Azure using Teams Toolkit, you need to be an admin.
+
 1. Select **Deploy** from the **LIFECYCLE** section in the left pane.
 
    :::image type="content" source="../assets/images/teams-toolkit-v2/deploy_to_the_cloud_button.png" alt-text="Screenshot showing the selection of Deploy.":::
